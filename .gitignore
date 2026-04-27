@@ -1,0 +1,15 @@
+# ignore compiled folders
+bin/
+out/
+*.class
+
+# eclipse config files
+.settings/
+.metadata/
+
+# logs
+*.log
+
+# OS junk
+Thumbs.db
+.DS_Store
